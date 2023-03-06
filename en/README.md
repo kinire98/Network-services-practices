@@ -3,7 +3,7 @@
 
 | Practice | Alternative | Problems | Solutions | Link | Level of pain in the a** (if you go blind) |
 | -- | -- | -- | -- | -- | -- |
-| **_Practice 0. Network infrastructure_** |  | Problems with graphic interface changing configuration of network interfaces | Change the configuration in the `/etc/network/interfaces` file | [Link to the documentation](https://github.com/kinire98/Network-services-practices/tree/main/en/Practice%200.%20Network%20Infrastructure) | 7/10 |
+| **_Practice 0. Network infrastructure_** |  | Problems with graphic interface changing configuration of network interfaces | Change the configuration in the `/etc/network/interfaces` file | [Link to the documentation](./Practice%200.%20Network%20Infrastructure) | 7/10 |
 |  |  | Problems with Windows domain | Restart the whole domain |  |  |
 |  |  | `/etc/network/interfaces` no working in Xubuntu Server | Change the yaml file of netplan, as specified [here](https://www.ochobitshacenunbyte.com/2021/04/26/netplan-configurar-la-red-en-ubuntu-20-04/). |  |  |
 |  |  | The VMWare tools didn't update in Windows 7 | Install Windows 7 Service Pack and a security update, the update the VMWare tools |  |  |
