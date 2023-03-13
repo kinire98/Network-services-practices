@@ -45,10 +45,15 @@
 | **_Practice 21E. Private folders access_** |  |  |  | [Link to the documentation](./Practice%2021E.%20Private%20folders%20access) | 4.5/10 |
 | **_Practice 21F. PHP + MySQL + PHPMyAdmin_** |  |  |  | [Link to the documentation](./Practice%2021F.%20PHP%20+%20MySQL%20+%20PHPMyAdmin) | 8/10 |
 | **_Practice 22. E-mail server in Windows with IIS_** |  |  |  | [Link to the documentation](./Practice%2022.%20E-mail%20server%20in%20Windows%20with%20IIS) | 6/10 |
-| **_Practice 23. E-mail server in Linux with postfix, dovecot and squirrelmail_** |  |  |  | [Link to the documentation](./Practice%2023.%20E-mail%20server%20in%20Linux%20with%20postfix,%20dovecot%20and%20squirrelmail) |  | 
+| **_Practice 23. E-mail server in Linux with postfix, dovecot, squirrelmail and Thunderbird_** |  |  |  | [Link to the documentation](./Practice%2023.%20E-mail%20server%20in%20Linux%20with%20postfix,%20dovecot%20and%20squirrelmail) | 12/10 | 
 | **_Practice 24. Make a forum server in Windows with PHPBB_** |  |  |  | [Link to the documentation](./Practice%2024.%20Make%20a%20forum%20server%20in%20Windows%20with%20PHPBB) | 2/10 |
 | **_Practice 25. Make a forum server in Linux with PHPBB_** |  |  |  | [Link to the documentation](./Practice%2025.%20Make%20a%20forum%20server%20in%20Linux%20with%20PHPBB) | 1/10 |
 | **_Practice 26. Instant messaging server with ejabberd_** |  |  |  | [Link to the documentation](./Practice%2026.%20Instant%20messaging%20server%20with%20ejabberd) | 9.5/10 |
 | **_Practice 27. Video streaming server with VLC_** |  |  |  | [Link to the documentation](./Practice%2027.%20Video%20streaming%20server%20with%20VLC) | 7.5/10 |
-| **_Practice 28. Videoconference server in Linux with GNUGK_** |  |  |  | [Link to the documentation](./Practice%2028.%20Videoconference%20server%20in%20Linux%20with%20GNUGK) | 10/10 |
+| **_Practice 28. Videoconference server in Linux with GNUGK_** |  | NOTE: Doesn't work |  | [Link to the documentation](./Practice%2028.%20Videoconference%20server%20in%20Linux%20with%20GNUGK) | 15/10 |
+| **_Practice 29. Transition from IPv4 to IPv6 with an ISATAP tunnel_** |  |  |  | [Link to the documentation](./Practice%2029%20Transition%20from%20IPv4%20to%20IPv6%20with%20an%20ISATAP%20tunnel) | 3/10 |
+| **_Practice 30. Double network stack in PacketTracert_** |  |  |  | [Link to the documentation](./Practice%2030.%20Double%20network%20stack%20in%20PacketTracert) | 7/10 (It's not that difficult, I just don't like PacketTracert) |
+| **_Practice 31. 6to4 tunnel. GNS3_** |  | Note: This might be a tricky one, because GNS3 is a free program, but for the IOS to make the virtual router work you have to pay for it |  | [Link to the documentation](./Practice%2031.%206to4%20tunnel.%20GNS3) | 4/10 |
+| **_Practice 32. Remote Desktop through SSH tunnel_** |  |  |  | [Link to the documentation](./Practice%2032.%20Remote%20Desktop%20through%20SSH%20tunnel) | 1/10 |
+| **_Practice 33. DHCP Failover_** |  |  |  | [Link to the documentation](./Practice%2033.%20DHCP%20Failover) | 4/10 |
 
